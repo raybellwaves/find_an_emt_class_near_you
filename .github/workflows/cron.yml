@@ -1,0 +1,37 @@
+name: Cron Job
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Update EMT classes and map
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Run classes.py
+        run: uv run classes.py
+
+      - name: Run generate_map.py
+        run: uv run generate_map.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add current_emt_classes.json mfri_emt_old_and_new_courses.json docs/index.html
+          git commit -m "Automated update of EMT class data and map" || echo "No changes to commit"
+          git push
