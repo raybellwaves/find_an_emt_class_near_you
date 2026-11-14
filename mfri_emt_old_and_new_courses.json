@@ -6227,7 +6227,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Lower Eastern Shore",
         "contact": "lescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A001-2027",
@@ -6241,7 +6241,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Western Maryland",
         "contact": "wmcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-A004-2027",
@@ -6255,7 +6255,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S018-2027",
@@ -6264,26 +6264,12 @@
         "startDate": "07-29-2026",
         "endDate": "02-15-2027",
         "firstClassTime": "18:30 - 21:30",
-        "location": "Lexington Park Volunteer Rescue Squad Inc. - Co. 39",
+        "location": "Lexington Park Volunteer Rescue Squad - Station 39",
         "locationAddress": "21685 Franklin Delano Roosevelt Blvd, Lexington Park MD 20653",
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
-    },
-    {
-        "courseId": "EMS-106-S002-2027",
-        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S002/2027/",
-        "registerLink": null,
-        "startDate": "08-10-2026",
-        "endDate": "02-15-2027",
-        "firstClassTime": "18:30 - 21:30",
-        "location": "Garrett College Career Technology Training Center - Accident Campus",
-        "locationAddress": "116 Industrial Drive, Accident MD 21520",
-        "instructionalHours": 207.0,
-        "coordinateBy": "Western Maryland",
-        "contact": "wmcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A034-2027",
@@ -6297,7 +6283,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S014-2027",
@@ -6311,7 +6297,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Upper Eastern Shore",
         "contact": "uescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S003-2027",
@@ -6325,7 +6311,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Western Maryland",
         "contact": "wmcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S013-2027",
@@ -6339,7 +6325,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Upper Eastern Shore",
         "contact": "uescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-A023-2027",
@@ -6353,7 +6339,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S030-2027",
@@ -6367,7 +6353,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S026-2027",
@@ -6381,7 +6367,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S019-2027",
@@ -6395,7 +6381,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S012-2027",
@@ -6409,7 +6395,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Upper Eastern Shore",
         "contact": "uescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S017-2027",
@@ -6423,7 +6409,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S007-2027",
@@ -6437,12 +6423,12 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S015-2027",
         "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S015/2027/",
-        "registerLink": "https://www.mfri.org/register/EMS-106-S015-2027/msfs",
+        "registerLink": null,
         "startDate": "08-31-2026",
         "endDate": "02-10-2027",
         "firstClassTime": "19:00 - 22:00",
@@ -6451,7 +6437,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S028-2027",
@@ -6465,7 +6451,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A029-2027",
@@ -6479,7 +6465,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A035-2027",
@@ -6493,7 +6479,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Lower Eastern Shore",
         "contact": "lescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-S006-2027",
@@ -6507,7 +6493,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S011-2027",
@@ -6521,7 +6507,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S021-2027",
@@ -6535,7 +6521,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Lower Eastern Shore",
         "contact": "lescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S016-2027",
@@ -6549,7 +6535,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S005-2027",
@@ -6563,7 +6549,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S008-2027",
@@ -6577,7 +6563,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S020-2027",
@@ -6591,7 +6577,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S033-2027",
@@ -6605,7 +6591,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S010-2027",
@@ -6614,12 +6600,12 @@
         "startDate": "09-16-2026",
         "endDate": "04-06-2027",
         "firstClassTime": "13:00 - 16:00",
-        "location": "Lutherville Volunteer Fire Company",
+        "location": "Lutherville Volunteer Fire Company - Station 30",
         "locationAddress": "1609 Bellona Avenue, Lutherville-Timonium MD 21093",
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S022-2027",
@@ -6633,7 +6619,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S032-2027",
@@ -6647,7 +6633,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A036-2027",
@@ -6661,7 +6647,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-S027-2027",
@@ -6675,7 +6661,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A037-2027",
@@ -6689,7 +6675,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Western Maryland",
         "contact": "wmcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-A038-2027",
@@ -6703,7 +6689,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-A040-2027",
@@ -6717,7 +6703,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-S024-2027",
@@ -6731,7 +6717,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Southern Maryland",
         "contact": "smcontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-S009-2027",
@@ -6745,7 +6731,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Lower Eastern Shore",
         "contact": "lescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-A046-2027",
@@ -6759,7 +6745,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Lower Eastern Shore",
         "contact": "lescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:31"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-A039-2027",
@@ -6773,7 +6759,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:30"
     },
     {
         "courseId": "EMS-106-A041-2027",
@@ -6787,7 +6773,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North East",
         "contact": "necontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:31"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-A025-2027",
@@ -6801,7 +6787,35 @@
         "instructionalHours": 207.0,
         "coordinateBy": "Upper Eastern Shore",
         "contact": "uescontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:29"
+        "currentDate": "2026-11-14 05:15:30"
+    },
+    {
+        "courseId": "EMS-106-S048-2027",
+        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S048/2027/",
+        "registerLink": "https://www.mfri.org/register/EMS-106-S048-2027/msfs",
+        "startDate": "01-04-2027",
+        "endDate": "07-17-2027",
+        "firstClassTime": "19:00 - 22:00",
+        "location": "MFRI Upper Eastern Shore Regional Training Center",
+        "locationAddress": "601 Safety Drive, Centreville MD 21617",
+        "instructionalHours": 207.0,
+        "coordinateBy": "Upper Eastern Shore",
+        "contact": "uescontact@mfri.org",
+        "currentDate": "2026-11-14 05:15:32"
+    },
+    {
+        "courseId": "EMS-106-S002-2027",
+        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S002/2027/",
+        "registerLink": "https://www.mfri.org/register/EMS-106-S002-2027/msfs",
+        "startDate": "01-06-2027",
+        "endDate": "07-14-2027",
+        "firstClassTime": "18:30 - 21:30",
+        "location": "Garrett College Career Technology Training Center - Accident Campus",
+        "locationAddress": "116 Industrial Drive, Accident MD 21520",
+        "instructionalHours": 207.0,
+        "coordinateBy": "Western Maryland",
+        "contact": "wmcontact@mfri.org",
+        "currentDate": "2026-11-14 05:15:29"
     },
     {
         "courseId": "EMS-106-S042-2027",
@@ -6815,11 +6829,11 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:31"
+        "currentDate": "2026-11-14 05:15:31"
     },
     {
         "courseId": "EMS-106-S043-2027",
-        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S043/2027/",
+        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S083/2028/",
         "registerLink": "https://www.mfri.org/register/EMS-106-S043-2027/msfs",
         "startDate": "01-12-2027",
         "endDate": "07-01-2027",
@@ -6829,7 +6843,7 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:30"
+        "currentDate": "2026-11-14 05:15:37"
     },
     {
         "courseId": "EMS-106-S044-2027",
@@ -6843,11 +6857,25 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:31"
+        "currentDate": "2026-11-14 05:15:31"
+    },
+    {
+        "courseId": "EMS-106-S049-2027",
+        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S049/2027/",
+        "registerLink": "https://www.mfri.org/register/EMS-106-S049-2027/msfs",
+        "startDate": "01-18-2027",
+        "endDate": "06-12-2027",
+        "firstClassTime": "19:00 - 22:00",
+        "location": "MFRI Headquarters",
+        "locationAddress": "4500 Campus Drive, College Park MD 20742",
+        "instructionalHours": 207.0,
+        "coordinateBy": "Southern Maryland",
+        "contact": "smcontact@mfri.org",
+        "currentDate": "2026-11-14 05:15:32"
     },
     {
         "courseId": "EMS-106-S045-2027",
-        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S104/2028/",
+        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S045/2027/",
         "registerLink": "https://www.mfri.org/register/EMS-106-S045-2027/msfs",
         "startDate": "01-19-2027",
         "endDate": "07-01-2027",
@@ -6857,6 +6885,20 @@
         "instructionalHours": 207.0,
         "coordinateBy": "North Central",
         "contact": "nccontact@mfri.org",
-        "currentDate": "2026-11-13 05:26:37"
+        "currentDate": "2026-11-14 05:15:31"
+    },
+    {
+        "courseId": "EMS-106-S047-2027",
+        "courseUrl": "https://www.mfri.org/course/msfs/EMS/106/S047/2027/",
+        "registerLink": "https://www.mfri.org/register/EMS-106-S047-2027/msfs",
+        "startDate": "01-25-2027",
+        "endDate": "07-31-2027",
+        "firstClassTime": "18:30 - 21:30",
+        "location": "MFRI Western Maryland Regional Training Center",
+        "locationAddress": "13928 Hazmat Drive SW, Cumberland MD 21502",
+        "instructionalHours": 207.0,
+        "coordinateBy": "Western Maryland",
+        "contact": "wmcontact@mfri.org",
+        "currentDate": "2026-11-14 05:15:31"
     }
 ]
